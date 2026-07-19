@@ -1,3 +1,7 @@
-#this is the page created with the help of github pages ---
+---
+layout: home
+---
+
+---
 title: Welcome to my blog!
 ---
