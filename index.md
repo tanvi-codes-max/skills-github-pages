@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: default
 ---
 
----
-title: Welcome to my blog!
----
+# Welcome to my blog!
+This is my brand new GitHub Pages website.
